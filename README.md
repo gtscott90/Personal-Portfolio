@@ -10,7 +10,7 @@ This portfolio can be a way that potential employers can get to know me and samp
 ### Screenshots
 ![About Me](./Assets/Images/about-me.png)
 ![Contact Me](./Assets/Images/contact.png)
-![Portfolio](./Assets/Images/portfolio-picture.png)
+![Portfolio](./Assets/Images/portfolio-screenshot.png)
 
 
 ### Links
