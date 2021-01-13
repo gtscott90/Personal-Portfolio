@@ -5,3 +5,12 @@ body {
     background-size: cover;
     
 }
+.listedContact {
+    font-size: small;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fa-circle {
+    font-size: x-small;
+}
