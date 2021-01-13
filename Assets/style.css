@@ -14,3 +14,7 @@ body {
 .fa-circle {
     font-size: x-small;
 }
+
+img {
+    width: 150px;
+}
